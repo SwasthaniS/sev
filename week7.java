@@ -8,7 +8,7 @@ class mainBranch{
 	public void login() {
 		System.out.println("Contains login branch");
 	}
-	public void ut() {
-		System.out.println("Contains signout");
+	public int ut(int a , int b) {
+		return 8;
 	}
 }

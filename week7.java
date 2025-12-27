@@ -5,7 +5,7 @@ public class week7 {
 }
 
 class mainBranch{
-	mainBranch() {
-		System.out.println("Contains main branch");
+	public void login() {
+		System.out.println("Contains login branch");
 	}
 }

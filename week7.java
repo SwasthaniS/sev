@@ -8,4 +8,7 @@ class mainBranch{
 	public void login() {
 		System.out.println("Contains login branch");
 	}
+	public void register() {
+		System.out.println("Contains register");
+	}
 }
